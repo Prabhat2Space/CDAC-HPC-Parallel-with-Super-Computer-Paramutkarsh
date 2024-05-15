@@ -1,0 +1,21 @@
+==========================================
+SLURM_CLUSTER_NAME = paramutkarsh
+SLURM_ARRAY_JOB_ID = 
+SLURM_ARRAY_TASK_ID = 
+SLURM_ARRAY_TASK_COUNT = 
+SLURM_ARRAY_TASK_MAX = 
+SLURM_ARRAY_TASK_MIN = 
+SLURM_JOB_ACCOUNT = cdac
+SLURM_JOB_ID = 154311
+SLURM_JOB_NAME = JobA
+SLURM_JOB_NODELIST = hm007
+SLURM_JOB_USER = shamjithkv
+SLURM_JOB_UID = 21385
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 25244
+SLURM_SUBMIT_DIR = /home/shamjithkv/demo/slurm
+SLURM_CPUS_ON_NODE = 1
+SLURM_NTASKS = 1
+SLURM_TASK_PID = 25244
+==========================================
+I'm job A

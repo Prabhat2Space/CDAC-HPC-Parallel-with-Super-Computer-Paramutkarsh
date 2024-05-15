@@ -1,0 +1,22 @@
+==========================================
+SLURM_CLUSTER_NAME = paramutkarsh
+SLURM_ARRAY_JOB_ID = 154673
+SLURM_ARRAY_TASK_ID = 2
+SLURM_ARRAY_TASK_COUNT = 4
+SLURM_ARRAY_TASK_MAX = 4
+SLURM_ARRAY_TASK_MIN = 1
+SLURM_JOB_ACCOUNT = nsmexternal
+SLURM_JOB_ID = 154681
+SLURM_JOB_NAME = array
+SLURM_JOB_NODELIST = hm007
+SLURM_JOB_USER = c-huk27
+SLURM_JOB_UID = 21894
+SLURM_JOB_PARTITION = standard
+SLURM_TASK_PID = 41060
+SLURM_SUBMIT_DIR = /home/c-huk27/slurm-samples
+SLURM_CPUS_ON_NODE = 1
+SLURM_NTASKS = 1
+SLURM_TASK_PID = 41060
+==========================================
+srun: Access denied for /usr/local/nsg/prolog/pro-createAZone.sh: No such file or directory
+My SLURM_ARRAY_TASK_ID: 2
